@@ -3,7 +3,7 @@ Analyzing Trump’s Tweets Using Natural Language Processing
 
 # import data
 
-```
+```python
 # Working with dates
 from datetime import datetime as dt
 from pytz import timezone
