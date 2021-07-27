@@ -3,7 +3,8 @@ Analyzing Trump’s Tweets Using Natural Language Processing
 
 # import data
 
-`# Working with dates
+```
+# Working with dates
 from datetime import datetime as dt
 from pytz import timezone
 
@@ -41,4 +42,5 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # Ensure that pandas dataframs are able to print
-pd.set_option('display.max_columns', 10)`
+pd.set_option('display.max_columns', 10)
+```
