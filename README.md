@@ -1,7 +1,8 @@
 # python-tweets-nlp
 Analyzing Trump’s Tweets Using Natural Language Processing
 
-# import data
+# 1. set up
+## 1.1 imports
 
 ```python
 # Working with dates
@@ -44,3 +45,16 @@ warnings.filterwarnings('ignore')
 # Ensure that pandas dataframs are able to print
 pd.set_option('display.max_columns', 10)
 ```
+
+## 1.2 loading the data
+```python
+```
+
+## 1.3 Utility Functions
+Utility Functions about plotting with date
+
+## 1.4 Visualization Setup
+
+# 2. Data Cleaning
+
+
